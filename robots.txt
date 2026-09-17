@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://hermes-plugins.korchasa.dev/sitemap.xml
