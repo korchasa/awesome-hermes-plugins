@@ -9,6 +9,10 @@ repository contains at least one directory with a Hermes plugin manifest and
 Python entry point; runtime behavior and security remain unverified.
 
 
+Read it as a website at [hermes-plugins.korchasa.dev](https://hermes-plugins.korchasa.dev/):
+every project has a page of its own, the weekly issues are archived, and
+[search](https://hermes-plugins.korchasa.dev/search/) looks through the whole list at once.
+
 Table of Contents:
 - [Tools & Automation](#tools-&-automation) (48)
 - [Commands & Workflows](#commands-&-workflows) (9)
